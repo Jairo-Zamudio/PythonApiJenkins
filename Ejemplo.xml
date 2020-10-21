@@ -1,0 +1,40 @@
+<root>
+   <celularPaciente>57(300)333-0000</celularPaciente>
+   <ciudadResidencia>CALI</ciudadResidencia>
+   <codDaneCiudad>76001</codDaneCiudad>
+   <codMedico>MD001</codMedico>
+   <codNacionalidadPaciente>CO</codNacionalidadPaciente>
+   <descripcionCompania />
+   <descripcionPlan>PLAN OBLIGATORIO DE SALUD</descripcionPlan>
+   <direccionResidencia>CALLE 3 OESTE # 24 F 221</direccionResidencia>
+   <emailPaciente />
+   <estadoCivilPaciente>C</estadoCivilPaciente>
+   <fechaAdmision>20181211000000</fechaAdmision>
+   <fechaDefuncionPaciente>20181216000000</fechaDefuncionPaciente>
+   <fechaEgreso>20181214000000</fechaEgreso>
+   <fechaNacimientoPaciente>19930420000000</fechaNacimientoPaciente>
+   <fechaTransaccion>20181218000000</fechaTransaccion>
+   <idCompania>EMP023</idCompania>
+   <idPlan>POS</idPlan>
+   <idSeccionPisoUbicacionPaciente>P3</idSeccionPisoUbicacionPaciente>
+   <idSucursalUbicacionPaciente> 0115</idSucursalUbicacionPaciente>
+   <nombreAcompanante>VALENTINA IVANNOVA ZUVAREFF</nombreAcompanante>
+   <numAdmision />
+   <numAdmisionAnterior>1</numAdmisionAnterior>
+   <numCamaPaciente>B32</numCamaPaciente>
+   <numIdAnteriorPaciente>79333222</numIdAnteriorPaciente>
+   <numIdPaciente>79333221123</numIdPaciente>
+   <numVisitaRIS>1</numVisitaRIS>
+   <primerApellidoPaciente>MORENO</primerApellidoPaciente>
+   <primerNombrePaciente>MARIO</primerNombrePaciente>
+   <relacionAcompanante>SPO</relacionAcompanante>
+   <segundoApellidoPaciente>REYES</segundoApellidoPaciente>
+   <segundoNombrePaciente>ALFONSO</segundoNombrePaciente>
+   <sexoPaciente>I</sexoPaciente>
+   <telefonoResidencia>57(2)555-1111</telefonoResidencia>
+   <tipoAdmision />
+   <tipoEvento>A01</tipoEvento>
+   <tipoIdAnteriorPaciente>CC</tipoIdAnteriorPaciente>
+   <tipoIdPaciente>CC</tipoIdPaciente>
+   <tipoPaciente>I</tipoPaciente>
+</root>
